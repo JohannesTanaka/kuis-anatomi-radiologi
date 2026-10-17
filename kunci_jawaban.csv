@@ -1,0 +1,27 @@
+﻿id,pertanyaan,jawaban_benar,alternatif_jawaban,poin,aktif
+jenis_pemeriksaan,Apa jenis pemeriksaan pada gambar ini?,Radiografi tengkorak,Foto polos tengkorak|Skull radiograph|X-ray tengkorak,1,true
+anatomi_01,Identifikasi struktur anatomi nomor 1.,,,1,false
+anatomi_02,Identifikasi struktur anatomi nomor 2.,,,1,false
+anatomi_03,Identifikasi struktur anatomi nomor 3.,,,1,false
+anatomi_04,Identifikasi struktur anatomi nomor 4.,,,1,false
+anatomi_05,Identifikasi struktur anatomi nomor 5.,,,1,false
+anatomi_06,Identifikasi struktur anatomi nomor 6.,,,1,false
+anatomi_07,Identifikasi struktur anatomi nomor 7.,,,1,false
+anatomi_08,Identifikasi struktur anatomi nomor 8.,,,1,false
+anatomi_09,Identifikasi struktur anatomi nomor 9.,,,1,false
+anatomi_10,Identifikasi struktur anatomi nomor 10.,,,1,false
+anatomi_11,Identifikasi struktur anatomi nomor 11.,,,1,false
+anatomi_12,Identifikasi struktur anatomi nomor 12.,,,1,false
+anatomi_13,Identifikasi struktur anatomi nomor 13.,,,1,false
+anatomi_14,Identifikasi struktur anatomi nomor 14.,,,1,false
+anatomi_15,Identifikasi struktur anatomi nomor 15.,,,1,false
+anatomi_16,Identifikasi struktur anatomi nomor 16.,,,1,false
+anatomi_17,Identifikasi struktur anatomi nomor 17.,,,1,false
+anatomi_18,Identifikasi struktur anatomi nomor 18.,,,1,false
+anatomi_19,Identifikasi struktur anatomi nomor 19.,,,1,false
+anatomi_20,Identifikasi struktur anatomi nomor 20.,,,1,false
+anatomi_21,Identifikasi struktur anatomi nomor 21.,,,1,false
+anatomi_22,Identifikasi struktur anatomi nomor 22.,,,1,false
+anatomi_23,Identifikasi struktur anatomi nomor 23.,,,1,false
+anatomi_24,Identifikasi struktur anatomi nomor 24.,,,1,false
+anatomi_25,Identifikasi struktur anatomi nomor 25.,,,1,false
